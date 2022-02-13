@@ -1,0 +1,2 @@
+# Coursera-Machine-Learning-Programming-Exercise-2-Logistic-Regression
+This repository contains python implementations of certain exercises from the course by Andrew Ng.  For a number of assignments in the course you are instructed to create complete, stand-alone Octave/MATLAB implementations of certain algorithms (Linear and Logistic Regression for example). The rest of the assignments depend on additional code provided by the course authors. For most of the code in this repository I have instead used existing Python implementations like Scikit-learn.
